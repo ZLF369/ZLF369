@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+###  🔭 I’m currently working on Java, C++, Python, MySql projects
+### 🌱 I’m currently learning Node.Js, C, JavaScript
 <!--
 **ZLF369/ZLF369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
